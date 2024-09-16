@@ -1,4 +1,4 @@
-# SignIn and SignUp with Bootstrap and Express JS
+# Sign In and Sign Up page with Bootstrap and Express JS
 
 ![SignIn](gitimages/SignIn.png)
 
