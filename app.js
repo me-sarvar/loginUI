@@ -18,7 +18,7 @@ app.get('/signup', (req, res) => {
 
 // Sign In page route
 app.get('/', (req, res) => {
-  res.render('signin', { title: 'Sign In' });
+  res.render('signin_signup', { title: 'Sign In' });
 });
 
 // Set up the server
